@@ -1,5 +1,5 @@
 streamlit
 torch
-torchvision==0.11.1
+torchvision
 Pillow
 matplotlib
